@@ -18,7 +18,8 @@ This repo is the official implementation of ICCV2021 paper "Adaptive Unfolding T
 
 ### Data
 ELD dataset
-- Download the ELD dataset from the [website](https://github.com/Vandermode/ELD), a selected sRGB version used in our model [website]()  
+- ELD dataset from the [website](https://github.com/Vandermode/ELD),
+-  Download the selected sRGB version used in our model [website]()  
 - Copy the dataset to ```dataset/ELD```
 
 sRGBSID
