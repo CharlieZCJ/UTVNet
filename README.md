@@ -27,12 +27,15 @@ sRGBSID
 ### Model
 Download the pretrained model from  [website](https://drive.google.com/drive/folders/1DeM8jjPWmXd9H4wNCiIIMmDENqoEy51y?usp=sharing), copy the model to ```pretrain_model```
 ### Evaluation
+
 sRGBSID  
 
 ```
 python train.py --data_name='sRGBSID'
 python evaluate.py --data_name='sRGBSID'
 ```
+please check the results in ```result/sRGBSID```  
+
 
 ELD:
 
@@ -41,16 +44,26 @@ ELD:
 python train.py --data_name='ELD_sony'
 python evaluate.py --data_name='ELD_sony'
 ```
+please check the results in ```result/ELD_sony```    
+
+
 - Cano 
 ```
 python train.py --data_name='ELD_cano'
 python evaluate.py --data_name='ELD_cano'
 ```
+please check the results in ```result/ELD_cano```      
+
 - Niko
 ```
 python train.py --data_name='ELD_niko'
 python evaluate.py --data_name='ELD_niko'
 ```
+please check the results in ```result/ELD_niko```      
+
+### Result
+If you want the test results directly, plesase send me an email.(<chuanjunzhengcs@gmail.com>)
+
 
 ## Citation
 If you find our work useful in your research, please consider citing:
