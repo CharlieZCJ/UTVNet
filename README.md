@@ -61,7 +61,7 @@ python evaluate.py --data_name='ELD_niko'
 ```
 please check the results in ```result/ELD_niko```      
 
-### Result
+### Test Result
 If you want the test results directly, plesase send me an email.(<chuanjunzhengcs@gmail.com>)
 
 
