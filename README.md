@@ -15,9 +15,33 @@ ELD dataset
 
 sRGBSID
 - Contact the author by [website](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.html).
-- - put them in ```dataset/sRGBSID```
+- put them in ```dataset/sRGBSID```
 
 ### Evaluation
+sRGBSID  
+
+```
+python train.py --data_name='sRGBSID'
+python evaluate.py --data_name='sRGBSID'
+```
+
+ELD:
+
+- sony 
+```
+python train.py --data_name='ELD_sony'
+python evaluate.py --data_name='ELD_sony'
+```
+- cano 
+```
+python train.py --data_name='ELD_cano'
+python evaluate.py --data_name='ELD_cano'
+```
+- niko
+-```
+python train.py --data_name='ELD_niko'
+python evaluate.py --data_name='ELD_niko'
+```
 
 ## Citation
 If you find our work useful in your research, please consider citing:
