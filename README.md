@@ -27,25 +27,25 @@ python evaluate.py --data_name='sRGBSID'
 
 ELD:
 
-- sony 
+- Sony 
 ```
 python train.py --data_name='ELD_sony'
 python evaluate.py --data_name='ELD_sony'
 ```
-- cano 
+- Cano 
 ```
 python train.py --data_name='ELD_cano'
 python evaluate.py --data_name='ELD_cano'
 ```
-- niko
--```
+- Niko
+```
 python train.py --data_name='ELD_niko'
 python evaluate.py --data_name='ELD_niko'
 ```
 
 ## Citation
 If you find our work useful in your research, please consider citing:
-```
+```bibtex
 @InProceedings{Zheng_2021_ICCV,
     author    = {Zheng, Chuanjun and Shi, Daming and Shi, Wentian},
     title     = {Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement},
