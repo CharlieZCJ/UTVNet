@@ -63,7 +63,7 @@ python evaluate.py --data_name='ELD_niko'
 please check the results in ```result/ELD_niko```      
 
 ### Test Result
-If you want the test results directly, plesase send me an email.(<chuanjunzhengcs@gmail.com>)
+If you find it difficult to generate the test results, plesase send me an email.(<chuanjunzhengcs@gmail.com>)
 
 
 ## Citation
