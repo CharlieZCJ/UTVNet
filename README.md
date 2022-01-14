@@ -38,7 +38,7 @@ python evaluate.py --data_name='sRGBSID'
 please check the results in ```result/sRGBSID```  
 
 
-ELD:
+ELD
 
 - Sony 
 ```
