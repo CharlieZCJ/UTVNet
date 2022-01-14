@@ -1,15 +1,22 @@
 # -*- coding: utf-8 -*-
 '''
 This is a PyTorch implementation of the ICCV 2021 paper:
-"Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement
-
-": https://arxiv.org/abs/2110.00984
+"Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement": https://arxiv.org/abs/2110.00984
 
 Please cite the paper if you use this code
 
+@InProceedings{Zheng_2021_ICCV,
+    author    = {Zheng, Chuanjun and Shi, Daming and Shi, Wentian},
+    title     = {Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {4439-4448}
+}
+
 Tested with Pytorch 1.7.1, Python 3.6
 
-Authors: Chuanjun Zheng (chuanjunzhengcs@gmail.com)
+Author: Chuanjun Zheng (chuanjunzhengcs@gmail.com)
 
 '''
 
