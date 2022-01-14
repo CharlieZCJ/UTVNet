@@ -26,7 +26,7 @@ sRGBSID
 - Contact the author by [website](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.html).
 - Copy the dataset to ```dataset/sRGBSID```
 ### Model
-Download the pretrained model from  [website](https://drive.google.com/drive/folders/1DeM8jjPWmXd9H4wNCiIIMmDENqoEy51y?usp=sharing), copy the model to ```pretrain_model```
+Download the pretrained model from  [website](https://drive.google.com/drive/folders/1uWfnaNd9Yy6hhDH8uNvfeC1Sxfz4QCZL?usp=sharing), copy the model to ```pretrain_model```
 ### Evaluation
 
 sRGBSID  
