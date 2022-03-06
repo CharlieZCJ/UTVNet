@@ -43,7 +43,7 @@ def test(model, args, loader_test, device):
         y = model(lr)
         image3 = y.clamp(0, 1).cpu()
         vutils.save_image(image3,
-                          '/data/zhengchuanjun/UTVNet/result/{}/{}{}.png'.format(args.data_name, ''.join(x), index))
+                          './result/{}/{}{}.png'.format(args.data_name, ''.join(x), index))
 
 
 def main():
